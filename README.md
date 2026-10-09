@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+
+Link de acesso:  [Vercel do portifólio](https://portfolio-gussi.vercel.app/)
+
 ## Getting Started
 
 First, run the development server:
